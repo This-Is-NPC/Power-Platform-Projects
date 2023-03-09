@@ -5,6 +5,9 @@
 > Tecnologias usadas:
   * Power Apps canvas
   * Power Automate
+  * Solutions
+  * Power Platform Pipelines
+  * Outlook 365
   * SharePoint
   * PowerShell
   * Teams
