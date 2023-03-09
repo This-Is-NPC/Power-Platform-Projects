@@ -1,5 +1,8 @@
-# Power-Platform-Projects
+# Colleague Directory
 
-<div align="center">
-![Home](https://user-images.githubusercontent.com/94719601/224176273-24b73613-8776-4f9f-8cc4-0abeb2de7775.jpg)
-</div>
+### Para T.I um aplicativo de gerenciamento de ramais, para os usuários um aplicativo amigável para pesquisar os números de todos os colegas disponiveis na empresa
+
+
+![Home](https://user-images.githubusercontent.com/94719601/224176714-cc858c70-3629-4da5-b913-73420108475d.jpg)
+
+![manage screen](https://user-images.githubusercontent.com/94719601/224177428-4cb50ad6-1aba-4f6e-a32a-9db781723e10.jpg)
