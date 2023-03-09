@@ -1,6 +1,6 @@
 # Power-Platform-Projects
 
-> > Bem vindos! 
+> Bem vindos! 
 > Aqui vocês podem encontrar um pouco do meu trabalho, espero que gostem e qualquer sugestão para aprimorar esse portfólio é muito bem vinda!
 > 
 > Welcome! 
