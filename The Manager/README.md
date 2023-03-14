@@ -1,6 +1,8 @@
-# Supplier Registration
+# The Manager
 
-##### Assim como o app de cadastro de clientes esse aqui também é auto afirmativo, mas ele é um marco dentro do processo de desenvolvimento interno na empresa, com esse app iniciei o uso do creators kit com os componentes context menu e fluent icon, ele possui o mesmo sistema de comentários que os aplicativos anteriores, fluxos de aprovação multi etapa, inserção de fichas através de Microsoft Forms e controles de vencimento através de fluxos agendados
+##### Um aplicativo para centralizar os catálogos de serviço da empresa, um gerenciador de demandas entre setores com controles por grupo e setor, módulo de aprovação integrado, módulo de comentário integrado, formulários dinâmicos e SLA definido com base no tipo de solicitação
+
+##### An application to centralize the company's service catalogs, a demand manager between sectors with controls by group and sector, integrated approval module, integrated comment module, dynamic forms and defined SLA based on the type of request
 
 >Tecnologias usadas:
   * Power Apps Canvas
@@ -9,14 +11,12 @@
   * Solutions
   * Power Platform Pipelines
   * Outlook 365
-  * Excel Online
   * Microsoft Forms
-  * Power Pages
+  * Dataverse
+  * Power Apps Cards
+  * Power Virtual Agents
   * DataVerse
-  * SharePoint
   * Power B.I
   * Teams
 
-![Home](https://user-images.githubusercontent.com/94719601/224181715-dd827c75-0720-4686-b632-e08373b33d67.jpg)
-![action button](https://user-images.githubusercontent.com/94719601/224181710-8357ee81-72cc-4555-bea2-38e766dacc9e.jpg)
-![view screen](https://user-images.githubusercontent.com/94719601/224181717-7717b32e-d303-4a86-bb82-5947821f8e3c.jpg)
+![The manager home](https://user-images.githubusercontent.com/94719601/224870232-a6d5d558-c63e-4931-ac2e-b13b141e4384.png)
