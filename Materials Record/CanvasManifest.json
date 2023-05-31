@@ -141,6 +141,7 @@
     "tela_pcp",
     "tela_qualidade",
     "tela_regulatorio",
-    "tela_vendas"
+    "tela_vendas",
+    "tela_todosOsItens"
   ]
 }
