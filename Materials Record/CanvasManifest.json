@@ -126,12 +126,12 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "pt-BR"
   },
   "ScreenOrder": [
+    "Comex",
+    "Comrpas",
     "Home",
-    "tela_comex",
-    "tela_compras",
     "tela_controladoria",
     "tela_custos",
     "tela_desenvolvimento",
@@ -141,9 +141,7 @@
     "tela_pcp",
     "tela_qualidade",
     "tela_regulatorio",
-    "tela_vendas",
     "tela_todosOsItens",
-    "Comex",
-    "Comrpas"
+    "tela_vendas"
   ]
 }
