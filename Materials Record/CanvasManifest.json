@@ -126,7 +126,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "pt-BR"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
     "Comex",
@@ -142,6 +142,7 @@
     "tela_qualidade",
     "tela_regulatorio",
     "tela_todosOsItens",
-    "tela_vendas"
+    "tela_vendas",
+    "Compras"
   ]
 }
