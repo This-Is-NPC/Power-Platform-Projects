@@ -3,10 +3,10 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Comex": 5,
+    "Comrpas": 6,
     "Home": 4,
     "Host": 3,
-    "tela_comex": 5,
-    "tela_compras": 6,
     "tela_controladoria": 7,
     "tela_custos": 8,
     "tela_desenvolvimento": 9,
@@ -20,7 +20,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/31/2023 19:02:44",
+  "HeaderLastSavedDateTimeUTC": "05/31/2023 19:25:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "2f81566f-5a73-4a6f-a185-3619390fd3a3": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/e931068f6d9541968652171a1b458101\""
@@ -66,10 +66,10 @@
   "OrderXMLTemplate": {},
   "OverridablePropertiesEntry": {
     "App": {},
+    "Comex": {},
+    "Comrpas": {},
     "Home": {},
     "Host": {},
-    "tela_comex": {},
-    "tela_compras": {},
     "tela_controladoria": {},
     "tela_custos": {},
     "tela_desenvolvimento": {},
@@ -85,10 +85,10 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Comex": 0,
+    "Comrpas": 0,
     "Home": 0,
     "Host": 0,
-    "tela_comex": 0,
-    "tela_compras": 0,
     "tela_controladoria": 0,
     "tela_custos": 0,
     "tela_desenvolvimento": 0,

@@ -130,8 +130,8 @@
   },
   "ScreenOrder": [
     "Home",
-    "tela_comex",
-    "tela_compras",
+    "Comex",
+    "Comrpas",
     "tela_controladoria",
     "tela_custos",
     "tela_desenvolvimento",
