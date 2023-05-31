@@ -1,0 +1,250 @@
+{
+  "2f81566f-5a73-4a6f-a185-3619390fd3a3": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1636/1.0.1636.3297/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://fresenius.sharepoint.com/teams/Team-FK-Business-Application-BR-Dev_kabi_034_site_app": {
+        "datasetOverride": {
+          "environmentVariableName": "kabi_034_site_app",
+          "name": "https://fresenius.sharepoint.com/teams/Team-FK-Business-Application-BR-Dev"
+        },
+        "dataSources": {
+          "034_area_unidade_responsavel": {
+            "tableName": "eabcef14-1bc2-4ddb-9f3b-d048398865fd",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_area_unidade_responsavel",
+              "name": "eabcef14-1bc2-4ddb-9f3b-d048398865fd"
+            }
+          },
+          "034_cockpit": {
+            "tableName": "ed51324c-769c-4c88-9445-8cc097851a8b",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_cockpit",
+              "name": "ed51324c-769c-4c88-9445-8cc097851a8b"
+            }
+          },
+          "034_materiais": {
+            "tableName": "9bcd0349-a3a9-4a0b-a149-fb4e10af6878",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_materiais",
+              "name": "9bcd0349-a3a9-4a0b-a149-fb4e10af6878"
+            }
+          },
+          "034_perfil_area": {
+            "tableName": "3085fa79-0fb8-45e2-a5c0-807dd9c85339",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_perfil_area",
+              "name": "3085fa79-0fb8-45e2-a5c0-807dd9c85339"
+            }
+          },
+          "034_ref_area_de_armazenamento": {
+            "tableName": "9fced969-13e6-4b1e-a8b5-4c67ac2f3157",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_area_de_armazenamento",
+              "name": "9fced969-13e6-4b1e-a8b5-4c67ac2f3157"
+            }
+          },
+          "034_ref_categ_de_item_entrada_saida": {
+            "tableName": "aff5ea94-a319-4b83-b75e-0722dd1cefa9",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_categ_de_item_entrada_saida",
+              "name": "aff5ea94-a319-4b83-b75e-0722dd1cefa9"
+            }
+          },
+          "034_ref_centro_de_lucro": {
+            "tableName": "b6cc43bf-2818-4880-b45e-1f09dac7febc",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_centro_de_lucro",
+              "name": "b6cc43bf-2818-4880-b45e-1f09dac7febc"
+            }
+          },
+          "034_ref_cfop": {
+            "tableName": "73a1b8f8-959c-4639-b37b-2c64a6b883fc",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_cfop",
+              "name": "73a1b8f8-959c-4639-b37b-2c64a6b883fc"
+            }
+          },
+          "034_ref_classe_de_avaliacao": {
+            "tableName": "1653317b-4de1-4546-809e-dcb5eb4cc4ba",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_classe_de_avaliacao",
+              "name": "1653317b-4de1-4546-809e-dcb5eb4cc4ba"
+            }
+          },
+          "034_ref_classificacao_fiscal": {
+            "tableName": "223c7e11-12ba-40ea-8d26-1b64cccd2a53",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_classificacao_fiscal"
+            }
+          },
+          "034_ref_condicoes_de_estocagem": {
+            "tableName": "755c76df-111e-4ddf-97ad-f77f42823714",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_condicoes_de_estocagem",
+              "name": "755c76df-111e-4ddf-97ad-f77f42823714"
+            }
+          },
+          "034_ref_depositos": {
+            "tableName": "132d2c01-b3bb-41a3-96af-d749c0ed2692",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_depositos",
+              "name": "132d2c01-b3bb-41a3-96af-d749c0ed2692"
+            }
+          },
+          "034_ref_grupo_de_origem": {
+            "tableName": "516ffdff-9670-4e2c-b893-1e437d7447f1",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_grupo_de_origem",
+              "name": "516ffdff-9670-4e2c-b893-1e437d7447f1"
+            }
+          },
+          "034_ref_grupo_de_transporte": {
+            "tableName": "32d7e20c-34d6-45ee-9b65-db89d5759243",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_grupo_de_transporte",
+              "name": "32d7e20c-34d6-45ee-9b65-db89d5759243"
+            }
+          },
+          "034_ref_grupo_mrp": {
+            "tableName": "e2950d2d-1d3f-4628-b5af-b55c78303e78",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_grupo_mrp",
+              "name": "e2950d2d-1d3f-4628-b5af-b55c78303e78"
+            }
+          },
+          "034_ref_linha_de_produto_comissao": {
+            "tableName": "bc1b2a77-0534-455a-a3e7-3a91a6ec114c",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_linha_de_produto_comissao",
+              "name": "bc1b2a77-0534-455a-a3e7-3a91a6ec114c"
+            }
+          },
+          "034_ref_origem_de_material": {
+            "tableName": "e4a3cc24-f5f6-49bd-8fe5-b889494e64df",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_origem_de_material",
+              "name": "e4a3cc24-f5f6-49bd-8fe5-b889494e64df"
+            }
+          },
+          "034_ref_perfil_cobertura": {
+            "tableName": "3cdea637-d725-4842-b745-72d3002153fd",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_perfil_cobertura",
+              "name": "3cdea637-d725-4842-b745-72d3002153fd"
+            }
+          },
+          "034_ref_perfil_descricao": {
+            "tableName": "187f71fc-ab64-470c-951b-1e0b883e924e",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_perfil_descricao",
+              "name": "187f71fc-ab64-470c-951b-1e0b883e924e"
+            }
+          },
+          "034_ref_planejador_mrp": {
+            "tableName": "4310f850-6c45-4693-b191-c3d55cdb26f0",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_planejador_mrp",
+              "name": "4310f850-6c45-4693-b191-c3d55cdb26f0"
+            }
+          },
+          "034_ref_tamanho_lote_mrp": {
+            "tableName": "7c458720-c918-485c-8d27-508db4ac118e",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_tamanho_lote_mrp",
+              "name": "7c458720-c918-485c-8d27-508db4ac118e"
+            }
+          },
+          "034_ref_tipo_de_pallet": {
+            "tableName": "509955f9-1893-4de6-af52-b10ed3436b89",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_tipo_de_pallet",
+              "name": "509955f9-1893-4de6-af52-b10ed3436b89"
+            }
+          },
+          "034_ref_tipo_de_suprimento": {
+            "tableName": "efb21be8-7be0-4569-8b68-a82d3b810369",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_tipo_de_suprimento",
+              "name": "efb21be8-7be0-4569-8b68-a82d3b810369"
+            }
+          },
+          "034_ref_tipo_mrp": {
+            "tableName": "7fa67c9c-bbb0-4705-b7de-ed5f12a92161",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_tipo_mrp",
+              "name": "7fa67c9c-bbb0-4705-b7de-ed5f12a92161"
+            }
+          },
+          "034_ref_unidade_de_medida": {
+            "tableName": "a5deaa1d-5e27-4186-886a-d138e7b4f605",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_unidade_de_medida",
+              "name": "a5deaa1d-5e27-4186-886a-d138e7b4f605"
+            }
+          },
+          "034_ref_utilizacao_de_material": {
+            "tableName": "f0dcba12-646d-41ad-a10e-d6d93e68969e",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_ref_utilizacao_de_material",
+              "name": "f0dcba12-646d-41ad-a10e-d6d93e68969e"
+            }
+          },
+          "034_setup": {
+            "tableName": "4c4bff85-26c5-41a0-9c31-b418afe69f65",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_setup",
+              "name": "4c4bff85-26c5-41a0-9c31-b418afe69f65"
+            }
+          },
+          "034_solicitacao_de_material": {
+            "tableName": "502bcbaa-0f26-4a24-83de-d0c0a61f4117",
+            "tableNameOverride": {
+              "environmentVariableName": "kabi_034_solicitacao_de_material",
+              "name": "502bcbaa-0f26-4a24-83de-d0c0a61f4117"
+            }
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "034_cockpit",
+      "034_materiais",
+      "034_ref_categ_de_item_entrada_saida",
+      "034_ref_cfop",
+      "034_ref_perfil_cobertura",
+      "034_setup",
+      "034_ref_classe_de_avaliacao",
+      "034_ref_grupo_de_origem",
+      "034_ref_planejador_mrp",
+      "034_ref_tipo_de_suprimento",
+      "034_ref_tipo_mrp",
+      "034_ref_utilizacao_de_material",
+      "034_ref_centro_de_lucro",
+      "034_ref_origem_de_material",
+      "034_ref_tipo_de_pallet",
+      "034_area_unidade_responsavel",
+      "034_perfil_area",
+      "034_ref_area_de_armazenamento",
+      "034_ref_condicoes_de_estocagem",
+      "034_ref_depositos",
+      "034_ref_grupo_de_transporte",
+      "034_ref_unidade_de_medida",
+      "034_solicitacao_de_material",
+      "034_ref_perfil_descricao",
+      "034_ref_tamanho_lote_mrp",
+      "034_ref_classificacao_fiscal",
+      "034_ref_grupo_mrp",
+      "034_ref_linha_de_produto_comissao"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "2f81566f-5a73-4a6f-a185-3619390fd3a3"
+  }
+}
