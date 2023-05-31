@@ -128,9 +128,9 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Home",
     "Comex",
-    "Compras",
+    "Comrpas",
+    "Home",
     "tela_controladoria",
     "tela_custos",
     "tela_desenvolvimento",
@@ -140,7 +140,8 @@
     "tela_pcp",
     "tela_qualidade",
     "tela_regulatorio",
+    "tela_todosOsItens",
     "tela_vendas",
-    "tela_todosOsItens"
+    "Compras"
   ]
 }
