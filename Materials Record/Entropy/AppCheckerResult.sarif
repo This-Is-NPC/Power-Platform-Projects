@@ -16,7 +16,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -28,7 +28,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -40,7 +40,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -52,7 +52,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -64,7 +64,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -76,7 +76,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -88,7 +88,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -100,7 +100,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -112,7 +112,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -124,7 +124,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -136,7 +136,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -148,7 +148,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -160,7 +160,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -172,7 +172,7 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             },
             {
@@ -184,7 +184,19 @@
                 "id": "app-InefficientDelayLoading"
               },
               "message": {
-                "text": "Error occurred running rule app-InefficientDelayLoading."
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 0
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Ocorreu um erro ao executar a regra app-InefficientDelayLoading."
               }
             }
           ]
@@ -200,17 +212,17 @@
               "id": "app-InefficientDelayLoading",
               "messageStrings": {
                 "issue": {
-                  "text": "Inefficient delay loading"
+                  "text": "Carregamento de atraso ineficiente"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Use variables, collections, and navigation context to share state across screens instead."
+                  "Ao invés disso, use variáveis, coleções e contexto de navegação para compartilhar o estado nas telas."
                 ],
                 "level": "Medium",
                 "primaryCategory": "performance",
-                "whyFix": "Controls that reference controls on other screens can slow down app loading and navigation. Doing this may force the app to load the other screens immediately, rather than waiting until the user navigates to that screen."
+                "whyFix": "Os controles que referenciam controles em outras telas podem deixar o carregamento do aplicativo e a navegação mais lentos. Isso força o aplicativo a carregar as outras telas imediatamente, em vez de aguardar até que o usuário navegue para elas."
               }
             }
           ],

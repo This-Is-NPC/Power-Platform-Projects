@@ -3,27 +3,28 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Home": 4,
+    "Home": 11,
     "Host": 3,
-    "tela_comex": 5,
-    "tela_compras": 6,
-    "tela_controladoria": 7,
-    "tela_custos": 8,
-    "tela_desenvolvimento": 9,
-    "tela_fiscalContabilidade": 10,
-    "tela_licitacao": 11,
-    "tela_logistica": 12,
-    "tela_pcp": 13,
-    "tela_qualidade": 14,
-    "tela_regulatorio": 15,
-    "tela_vendas": 16
+    "tela_comex": 12,
+    "tela_compras": 13,
+    "tela_controladoria": 14,
+    "tela_custos": 15,
+    "tela_desenvolvimento": 16,
+    "tela_fiscalContabilidade": 4,
+    "tela_licitacao": 5,
+    "tela_logistica": 6,
+    "tela_pcp": 7,
+    "tela_qualidade": 8,
+    "tela_regulatorio": 9,
+    "tela_todosOsItens": 17,
+    "tela_vendas": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/31/2023 19:02:44",
+  "HeaderLastSavedDateTimeUTC": "05/31/2023 19:26:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "2f81566f-5a73-4a6f-a185-3619390fd3a3": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/e931068f6d9541968652171a1b458101\""
+    "2f81566f-5a73-4a6f-a185-3619390fd3a3": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/3c38b3e7c2d24373b56c898c12079d8a\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -79,6 +80,7 @@
     "tela_pcp": {},
     "tela_qualidade": {},
     "tela_regulatorio": {},
+    "tela_todosOsItens": {},
     "tela_vendas": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -98,17 +100,18 @@
     "tela_pcp": 0,
     "tela_qualidade": 0,
     "tela_regulatorio": 0,
+    "tela_todosOsItens": 0,
     "tela_vendas": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0720579,
+    "AnalysisLoadTime": 0.061378,
     "ControlCount": {
-      "screen": 13
+      "screen": 14
     },
-    "DeserializationLoadTime": 1.0398883
+    "DeserializationLoadTime": 1.5104185
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
