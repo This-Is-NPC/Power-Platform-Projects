@@ -1,2 +1,10 @@
 Home As screen:
 
+    "CommandBar1 As 'Fluent Command Bar (1.0.19)'.pcfdataset":
+        DisplayMode: =DisplayMode.Edit
+        Height: =200
+        Width: =200
+        X: =80
+        Y: =52
+        ZIndex: =1
+
