@@ -1,7 +1,4 @@
 # Supplier Registration
-
-##### Assim como o app de cadastro de clientes esse aqui também é auto afirmativo, mas ele é um marco dentro do processo de desenvolvimento interno na empresa, com esse app iniciei o uso do creators kit com os componentes context menu e fluent icon, ele possui o mesmo sistema de comentários que os aplicativos anteriores, fluxos de aprovação multi etapa, inserção de fichas através de Microsoft Forms e controles de vencimento através de fluxos agendados
-
 >Tecnologias usadas:
   * Power Apps Canvas
   * Power Automate
