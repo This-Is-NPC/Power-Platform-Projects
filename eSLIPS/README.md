@@ -1,7 +1,4 @@
 # eSLIPS
-
-### Um aplicativo para solicitações de pagamento com um fluxo de aprovação muito complexo que envolve separações por grupo de valor, região e centro de custo, possui consultas diretas em bases de dados do SAP, fluxos RPA, diferentes telas de gerenciamento para departamentos de diferentes regiões e controles de utilização para usuários com base em cadastros por região também
-
 >Tecnologias usadas:
   * Power Apps Canvas
   * Power Automate
