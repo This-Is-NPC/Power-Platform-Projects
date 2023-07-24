@@ -1,7 +1,4 @@
 # Workflow SESMT
-
-##### Um aplicativo para gerenciamento de exames admissionais, demissionais, movimentações de pessoal e análises de desligamento entre diferentes setores (Recursos humanos, Segurança do trabalho e Ambulatório), ele possui o sistema de comentários como mostrado anteriormente, controle de visualização e preenchimento através de cadastrados por unidade, setor e tipo de processo, as etapas com que as fichas seguem de um setor para outro também é dinânimca e é possível cadastrar mais setores caso necessário
-
 >Tecnologias usadas:
   * Power Apps Canvas
   * Power Automate
